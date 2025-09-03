@@ -4,64 +4,77 @@ This repository contains academic resources and study materials for the Third Se
 
 ## 📚 Repository Structure
 
+<details>
+<summary>🔽 Click to expand full directory tree</summary>
+
 ```
-3rdSemRVCE/
-├── Biosafety/
-│   ├── 1/
-│   │   ├── 1.1.pdf
-│   │   ├── 1.2.pdf
-│   │   └── 1.3.pdf
-│   ├── 2/
-│   │   ├── 2.pdf
-│   │   └── 2.pptx
-│   ├── 3/
-│   │   ├── 3.1.pdf
-│   │   ├── 3.2.pptx
-│   │   ├── 3.3.pdf
-│   │   ├── 3.4.pptx
-│   │   └── 3.5.pdf
-│   ├── 4/
-│   │   ├── 4.1.pdf
-│   │   ├── 4.2.pdf
-│   │   ├── 4.3.docx
-│   │   ├── 4.4.pdf
-│   │   └── 4.5.pptx
-│   └── 5/
-│       ├── 5.1.pdf
-│       ├── 5.2.pdf
-│       ├── 5.3.pdf
-│       ├── 5.4.pdf
-│       ├── 5.5.pdf
-│       └── 5.6.pdf
-├── DSA/
-│   └── 1.pdf
-├── LDCO/
-│   ├── 1.txt
-│   ├── 2.pdf
-│   ├── 3.pdf
-│   ├── 4.pdf
-│   ├── 5.pdf
-│   └── TB.pdf
-├── Maths/
-│   ├── 1.pdf
-│   ├── 2.pdf
-│   ├── 3.pdf
-│   ├── 4.pdf
-│   ├── 5.pdf
-│   └── Handbook.pdf
-├── OS/
-│   ├── 1&2.pdf
-│   ├── 1.docx
-│   ├── 2.docx
-│   ├── 2.pdf
-│   ├── 3.pdf
-│   ├── 4.pdf
-│   ├── 5.1.pptx
-│   ├── 5.2.pptx
-│   └── 5.pptx
-├── README.md
-└── Y2-ISE-22-Scheme.pdf
+📁 3rdSemRVCE/
+├── 🧬 Biosafety/
+│   ├── 📂 Module 1/
+│   │   ├── 📄 1.1.pdf
+│   │   ├── 📄 1.2.pdf
+│   │   └── 📄 1.3.pdf
+│   ├── 📂 Module 2/
+│   │   ├── 📄 2.pdf
+│   │   └── 📊 2.pptx
+│   ├── 📂 Module 3/
+│   │   ├── 📄 3.1.pdf
+│   │   ├── 📊 3.2.pptx
+│   │   ├── 📄 3.3.pdf
+│   │   ├── 📊 3.4.pptx
+│   │   └── 📄 3.5.pdf
+│   ├── 📂 Module 4/
+│   │   ├── 📄 4.1.pdf
+│   │   ├── 📄 4.2.pdf
+│   │   ├── 📝 4.3.docx
+│   │   ├── 📄 4.4.pdf
+│   │   └── 📊 4.5.pptx
+│   └── 📂 Module 5/
+│       ├── 📄 5.1.pdf
+│       ├── 📄 5.2.pdf
+│       ├── 📄 5.3.pdf
+│       ├── 📄 5.4.pdf
+│       ├── 📄 5.5.pdf
+│       └── 📄 5.6.pdf
+├── 🔢 DSA/
+│   └── 📄 1.pdf
+├── 💻 LDCO/
+│   ├── 📜 1.txt
+│   ├── 📄 2.pdf
+│   ├── 📄 3.pdf
+│   ├── 📄 4.pdf
+│   ├── 📄 5.pdf
+│   └── 📚 TB.pdf
+├── ➕ Maths/
+│   ├── 📄 1.pdf
+│   ├── 📄 2.pdf
+│   ├── 📄 3.pdf
+│   ├── 📄 4.pdf
+│   ├── 📄 5.pdf
+│   └── 📖 Handbook.pdf
+├── 🖥️ OS/
+│   ├── 📄 1&2.pdf
+│   ├── 📝 1.docx
+│   ├── 📝 2.docx
+│   ├── 📄 2.pdf
+│   ├── 📄 3.pdf
+│   ├── 📄 4.pdf
+│   ├── 📊 5.1.pptx
+│   ├── 📊 5.2.pptx
+│   └── 📊 5.pptx
+├── 📋 README.md
+└── 🎓 Y2-ISE-22-Scheme.pdf
 ```
+</details>
+
+### 🗂️ Quick Overview
+| Subject | Files | Description |
+|---------|-------|-------------|
+| 🧬 **Biosafety** | 18 files (5 modules) | Complete module-wise study materials |
+| 🔢 **DSA** | 1 file | Data Structures & Algorithms fundamentals |
+| 💻 **LDCO** | 6 files | Logic Design & Computer Organization |
+| ➕ **Maths** | 6 files | Mathematical concepts + Handbook |
+| 🖥️ **OS** | 9 files | Operating Systems theory & practice |
 
 ## 📋 Additional Resources
 
@@ -87,3 +100,7 @@ This repository contains academic resources and study materials for the Third Se
 
 ## 📄 License
 This repository is for **educational purposes only**. All rights to the original materials belong to their respective authors/institutions.
+
+## 👥 Repository Maintainers
+- **Dheeraj R**
+- **Vivaan Hooda**
