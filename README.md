@@ -1,5 +1,5 @@
 # 3rdSemRVCE - ISE Third Semester Resources
-This repository contains academic resources and study materials for the Third Semester curriculum at the Department of ISE, RVCE (RV College of Engineering).
+This repository contains academic resources and study materials for the third semester curriculum at the Department of ISE, RVCE (RV College of Engineering).
 
 ## 📚 Repository Structure
 
