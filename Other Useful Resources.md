@@ -8,7 +8,7 @@
 **4th Semester Resources**
 - https://drive.google.com/drive/folders/1p5F_sq_sywzovWbOnxsZ1HFYxoJ0DrCd?usp=sharing
 
-**Environment and Sustainability Question Papers**
+**2nd-year-resources-2022-scheme-rvce** 
 - https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce
 
 **IoT Resources (4th Sem)**
