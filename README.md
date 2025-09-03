@@ -73,7 +73,7 @@ This repository contains academic resources and study materials for the Third Se
 | 🧬 **Biosafety** | 18 files (5 modules) | Complete module-wise study materials |
 | 🔢 **DSA** | 1 file | Data Structures & Algorithms fundamentals |
 | 💻 **LDCO** | 6 files | Logic Design & Computer Organization |
-| ➕ **Maths** | 6 files | Mathematical concepts + Handbook |
+| ➕ **Maths** | 6 files | Dept. Notes (1-5) + Handbook |
 | 🖥️ **OS** | 9 files | Operating Systems theory & practice |
 
 ## 📋 Additional Resources
@@ -102,5 +102,5 @@ This repository contains academic resources and study materials for the Third Se
 This repository is for **educational purposes only**. All rights to the original materials belong to their respective authors/institutions.
 
 ## 👥 Repository Maintainers
-- **Dheeraj R**
-- **Vivaan Hooda**
+- **Dheeraj R** 
+- :octocat: [Vivaan Hooda](https://github.com/VivaanHooda) | 📧 [Email](mailto:vivaan.hooda@gmail.com)
