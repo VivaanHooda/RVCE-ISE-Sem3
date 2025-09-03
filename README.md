@@ -74,7 +74,7 @@ This repository contains academic resources and study materials for the Third Se
 | Subject | Location | Files | Description |
 |---------|----------|-------|-------------|
 | 🔢 **DSA** | `Resources/DSA/` | 1 file | Data Structures & Algorithms fundamentals |
-| 🧬 **Biosafety** | `Resources/Electives/Biosafety/` | 18 files (5 modules) | Complete module-wise study materials |
+| 🧬 **Biosafety** | `Resources/Electives/Biosafety/` | 5 Units | Complete unit-wise study materials |
 | 💻 **LDCO** | `Resources/LDCO/` | 6 files | Logic Design & Computer Organization |
 | ➕ **Maths** | `Resources/Maths/` | 6 files | Dept. Notes (1-5) + Handbook |
 | 🖥️ **OS** | `Resources/OS/` | 9 files | Operating Systems theory & practice |
@@ -117,7 +117,7 @@ We welcome contributions to improve this repository! Here's how you can help:
 - **PDF**: Lecture notes, textbooks, and reference materials
 - **PPTX**: Presentation slides and visual content
 - **DOCX**: Detailed explanations and assignments
-- **TXT**: Text-based notes and code snippets
+- **TXT**: Text-based notes, links and code snippets
 
 ## 📁 Directory Guidelines
 
