@@ -106,7 +106,7 @@ This repository contains academic resources and study materials for the third se
 We welcome contributions to improve this repository! Here's how you can help:
 
 1. **Fork the repository** - Click the "Fork" button at the top right of this page
-2. **Clone your fork** - `git clone https://github.com/rdheeraj965/3rdSemRVCE.git`
+2. **Clone your fork** - `git clone https://github.com/yourusername/3rdSemRVCE.git`
 3. **Create a new branch** - `git checkout -b feature/your-contribution`
 4. **Add your materials** - Upload notes to the appropriate `Resources/` subfolder
 5. **Follow the structure** - Place core subjects directly in `Resources/`, electives in `Resources/Electives/`
