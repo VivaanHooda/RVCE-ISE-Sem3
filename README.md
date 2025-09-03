@@ -1,9 +1,7 @@
 # 3rdSemRVCE - Third Semester Resources
-
 This repository contains academic resources and study materials for the Third Semester curriculum at RVCE (RV College of Engineering).
 
 ## 📚 Repository Structure
-
 <details>
 <summary>🔽 Click to expand full directory tree</summary>
 
@@ -37,7 +35,7 @@ This repository contains academic resources and study materials for the Third Se
 │       ├── 📄 5.5.pdf
 │       └── 📄 5.6.pdf
 ├── 🔢 DSA/
-│   └── 📄 1.pdf
+│   └── 📄 1.pdf // Handwritten Notes (Units 1 - 5)
 ├── 💻 LDCO/
 │   ├── 📜 1.txt
 │   ├── 📄 2.pdf
@@ -77,18 +75,32 @@ This repository contains academic resources and study materials for the Third Se
 | 🖥️ **OS** | 9 files | Operating Systems theory & practice |
 
 ## 📋 Additional Resources
-
 - **Y2-ISE-22-Scheme.pdf**: Official curriculum scheme for Year 2 ISE students
 
 ## 🎯 How to Use This Repository
-
 1. Navigate to the subject folder you need
 2. Each subject is organized by modules/topics
 3. Materials are available in multiple formats (PDF, PPTX, DOCX, TXT)
 4. Use the handbook and textbook files for quick reference
 
-## 📝 File Format Legend
+## 🤝 How to Contribute
+We welcome contributions to improve this repository! Here's how you can help:
 
+1. **Fork the repository** - Click the "Fork" button at the top right of this page
+2. **Clone your fork** - `git clone https://github.com/rdheeraj965/3rdSemRVCE.git`
+3. **Create a new branch** - `git checkout -b feature/your-contribution`
+4. **Add your materials** - Upload notes, fix errors, or add new resources
+5. **Commit changes** - `git commit -m "Add: description of your contribution"`
+6. **Push to your fork** - `git push origin feature/your-contribution`
+7. **Create a Pull Request** - Submit your changes for review
+
+**What you can contribute:**
+- Better quality notes or additional study materials
+- Error corrections in existing files
+- New subjects or missing modules
+- Improved organization or formatting
+
+## 📝 File Format Legend
 - **PDF**: Lecture notes, textbooks, and reference materials
 - **PPTX**: Presentation slides and visual content
 - **DOCX**: Detailed explanations and assignments
