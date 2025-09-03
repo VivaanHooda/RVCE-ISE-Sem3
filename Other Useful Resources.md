@@ -9,9 +9,9 @@
 - https://drive.google.com/drive/folders/1p5F_sq_sywzovWbOnxsZ1HFYxoJ0DrCd?usp=sharing
 
 **Environment and Sustainability Question Papers**
-- https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce/tree/main/Basket%20courses/CV232AT%2CCV242AT-Environment%20and%20sustainability/Question%20papers
+- https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce
 
-**IoT Resources**
+**IoT Resources (4th Sem)**
 - eurl.dev/iot
 
 ## 🤝 Community Contributions
@@ -27,5 +27,4 @@ These resources have been shared by fellow students and alumni to help the RVCE 
 
 ---
 
-*Last Updated: September 2025*
-*Maintained by the 3rdSemRVCE Community*
+*Last Updated: September 4 2025*
