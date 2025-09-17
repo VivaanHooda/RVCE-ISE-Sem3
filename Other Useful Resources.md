@@ -27,4 +27,4 @@ These resources have been shared by fellow students and alumni to help the RVCE 
 
 ---
 
-*Last Updated: September 4 2025*
+*Last Updated: September 17 2025*
