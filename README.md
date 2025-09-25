@@ -264,5 +264,5 @@ This repository is for **educational purposes only**. All rights to the original
 
 ## 👥 Repository Maintainers
 
-- **Dheeraj R** 
 - :octocat: [Vivaan Hooda](https://github.com/VivaanHooda) | 📧 [Email](mailto:vivaan.hooda@gmail.com)
+- **Dheeraj R** 
