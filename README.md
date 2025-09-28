@@ -17,11 +17,12 @@ This repository contains academic resources and study materials for the third se
 
 ```
 📁 3rdSemRVCE/
+├── 📄 Other Useful Resources.md
 ├── 📋 README.md
 ├── 📂 Resources/
 │   ├── 🔢 DSA/
-│   │   └── 📄 All Units.pdf
-│   ├── Electives 🧬 🏗️ 🔬/
+│   │   └── 📄 Handwritten - All Units.pdf
+│   ├── 📂 Electives/
 │   │   ├── 🧬 Biosafety/
 │   │   │   ├── 📂 Notes [Set 1]/
 │   │   │   │   ├── 📂 1/
@@ -137,7 +138,7 @@ This repository contains academic resources and study materials for the third se
 │   │       │       └── 📄 ME232AT-SEE.pdf
 │   │       └── 📄 Syllabus.pdf
 │   ├── 💻 LDCO/
-│   │   ├── 📜 1.txt
+│   │   ├── 📄 1.txt
 │   │   ├── 📄 2.pdf
 │   │   ├── 📄 3.pdf
 │   │   ├── 📄 4.pdf
@@ -168,15 +169,17 @@ This repository contains academic resources and study materials for the third se
 │   │       ├── 📄 Handbook.pdf
 │   │       └── 📄 Syllabus.pdf
 │   └── 🖥️ OS/
-│       ├── 📄 1&2.pdf
-│       ├── 📄 1.pdf
-│       ├── 📄 2.pdf
-│       ├── 📄 3.pdf
-│       ├── 📄 4.pdf
-│       ├── 📄 5.1.pdf
-│       ├── 📄 5.2.pdf
-│       ├── 📄 5.pdf
-│       ├── 📂 Misc (CSE Branch)/
+│       ├── 📂 Notes/
+│       │   ├── 📄 1&2.pdf
+│       │   ├── 📄 1.pdf
+│       │   ├── 📄 2.pdf
+│       │   ├── 📄 3.pdf
+│       │   ├── 📄 4.pdf
+│       │   ├── 📄 5.1.pdf
+│       │   ├── 📄 5.2.pdf
+│       │   └── 📄 5.pdf
+│       ├── 📄 OS Lab Manual.pdf
+│       ├── 📂 OS Misc (CSE Branch)/
 │       │   ├── 📂 CSE Notes/
 │       │   │   ├── 📂 Unit 1/
 │       │   │   │   ├── 📄 Notes on Scheduler and Dispatcher.pdf
@@ -213,6 +216,7 @@ This repository contains academic resources and study materials for the third se
 ## 📋 Additional Resources
 
 - **Y2-ISE-22-Scheme.pdf**: Official curriculum scheme for Year 2 ISE students (located in root directory)
+- **Other Useful Resources.md**: Additional helpful resources and links
 
 ## 🎯 How to Use This Repository
 
@@ -265,4 +269,4 @@ This repository is for **educational purposes only**. All rights to the original
 ## 👥 Repository Maintainers
 
 - :octocat: [Vivaan Hooda](https://github.com/VivaanHooda) | 📧 [Email](mailto:vivaan.hooda@gmail.com)
-- **Dheeraj R** 
+- **Dheeraj R**
