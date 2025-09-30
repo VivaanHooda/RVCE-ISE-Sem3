@@ -269,4 +269,8 @@ This repository is for **educational purposes only**. All rights to the original
 ## 👥 Repository Maintainers
 
 - :octocat: [Vivaan Hooda](https://github.com/VivaanHooda) | 📧 [Email](mailto:vivaan.hooda@gmail.com)
-- **Dheeraj R**
+
+## Credit : 
+- Samkit Samsukha : Provided essential resources and ISE 27' Batch CIE + SEE Papers
+- Dheeraj R : Provided essential resources and notes
+- Vidisha Dewan : Helped cummulate CIE and SEE Papers
